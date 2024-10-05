@@ -1,0 +1,12 @@
+body {
+    background-image: url("./assets/bg-image.jpg");
+    background-size: cover;
+}
+
+#page {
+    
+}
+
+img {
+    border-radius: 16px;
+}
