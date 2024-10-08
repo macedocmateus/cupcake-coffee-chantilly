@@ -1,0 +1,41 @@
+<h1 align="center"> 🧁☕ Cupcake Coffee With Chantilly ☕🧁 </h1>
+
+<p align="center">
+Projeto pessoal utilizando conceitos HTML e CSS.
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Interface de uma página de receita de um cupcake de café com cobertura de chantilly" src="./assets/capa-readme.jpg" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+-   HTML e CSS
+-   Git e GitHub
+-   Figma
+
+## 💻 Projeto
+
+Cupcake Coffee With Chantilly é um página de uma receita de cupcake de café com cobertura de chantilly com informações de ingredients, quantidades e o passo a passo de como prepara-lo. Clique <a href="https://cupcake-coffee-chantilly.vercel.app/" target="_blank" rel="noopener noreferrer">aqui</a> para testar a página.
+
+## 🎨 Layout
+
+Clique <a href="https://www.figma.com/design/ZtVABOjAKpEStHozBUr0Fh/P%C3%A1gina-de-receita-(Community)?node-id=0-1&node-type=canvas&t=Ae8aKivzgMxqS540-0">aqui</a> para conhecer a prototipagem do projeto.
+<br>
+<br>
+<br>
+<br>
+
+<p align="center">
+Desenvolvido com ♥ by Mateus de Castro Macedo 👨‍💻
+</p>
